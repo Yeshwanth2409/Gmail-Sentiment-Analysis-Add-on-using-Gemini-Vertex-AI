@@ -64,10 +64,4 @@ By the end of the lab, you'll have a functioning Gmail add-on capable of analyzi
 - Google Cloud documentation on **Vertex AI**, **Apps Script**, and **OAuth2**
 - Guides for implementing **sentiment analysis** in AI-powered tools
 - Google Cloud Skills Boost platform for further hands-on labs and learning paths
-
----
-
-##  Lab Metadata
-
-- **Lab ID**: GSP1301  
-- **Refreshed**: February 25, 2025 (Lab), March 25, 2025 (Manual) :contentReference[oaicite:1]{index=1}  
+ 
